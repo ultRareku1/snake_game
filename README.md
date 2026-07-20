@@ -15,16 +15,7 @@
 
 ## 快速开始
 
-无需构建、无需安装依赖，直接用浏览器打开 `index.html` 即可：
-
-```bash
-# 方式一：直接双击 index.html
-
-# 方式二：本地起一个静态服务器（推荐）
-cd snake-game
-python3 -m http.server 8000
-# 浏览器访问 http://localhost:8000
-```
+无需构建、无需安装依赖，直接下载并用浏览器打开 `index.html` 或直接访问本仓库的GitHub Pages即可：
 
 ## 操作说明
 
